@@ -17,6 +17,8 @@ class App extends React.Component{
                     name : 'juce',
                     type : 'm',
                 }
+
+                
             ],
             popularThing : 'water',
             latestThing :'',
